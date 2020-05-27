@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <meta charset="utf-8">
+        <title>My teste page</title>
+        <link rel="stylesheet" href="styles/style.css" type="text/css">
+        <link href="https://fonts.googleapis.com/css2?family=Anton&display=swap" rel="stylesheet" type="text/css">
+    </head>
+
+    <body> 
+        <h1>Paisajes</h1>
+        <h6>Descripción</h6>
+        <img src='images/puente.jpg' alt="My test image" width="300">
+        <p>Imagen de un<strong> puente</strong> en la mitad de la naturaleza.</p>
+        <p>Ecuador tiene paisajes que sorprenden a propios y extraños por su belleza natural e incluso por la fuerza que aparentan tener sus volcanes.</p>
+        <p>La cordillera de los Andes es un ejemplo de la rica variedad de paisajes que se pueden ver en Ecuador. Un gran escenario es el "Tren de la Nariz del Diablo", en el que podrás tomar fotos desde el tren mientras contemplas la famosa Avenida de los Volcanes:</p>
+        
+
+    </body>
+</html>
